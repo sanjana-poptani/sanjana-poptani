@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanjana Poptani</h1>
 <h3 align="center">QA Engineer Intern</h3>
 
-- 👨‍💻 All of my projects are available at [sanjana-poptani.github.io](sanjana-poptani.github.io)
+- 👨‍💻 All of my projects are available at [https://sanjana-poptani.github.io/](sanjana-poptani.github.io)
 
 - 📫 How to reach me **sanjanapoptani54@gmail.com**
 

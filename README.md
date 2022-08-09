@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanjana Poptani</h1>
-<h3 align="center">QA Engineer Intern</h3>
+<h3 align="center">QA Engineer</h3>
 
 - 📁 You can check my portfolio on [https://sanjana-poptani.github.io/](https://sanjana-poptani.github.io/)
 
